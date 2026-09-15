@@ -63,16 +63,23 @@ git --version
 
 ### Clonando e Executando
 #### Clone este repositório
+```bash
 git clone [https://github.com/Leo300609/Sistema-Lanchonete-em-JAVA.git](https://github.com/Leo300609/Sistema-Lanchonete-em-JAVA.git)
-
+```
 #### Acesse a pasta do projeto
+```bash
 cd Sistema-Lanchonete-em-JAVA
+```
 
 #### Compile o arquivo Java
+```bash
 javac SistemaLanchonete.java
+```
 
 #### Execute a aplicação
+```bash
 java SistemaLanchonete
+```
 
 ## Exemplo de Uso
 <img width="684" height="524" alt="image" src="https://github.com/user-attachments/assets/583d6192-09fd-4fad-947e-5c1e22e4b50d" />
