@@ -51,6 +51,17 @@ O **Sistema de Lanchonete** foi desenvolvido para automatizar a contagem e anál
 
 ## 🚀 Como Executar
 
+### Pré-requisitos
+
+Certifique-se de ter o **JDK** e o **Git** instalados na sua máquina. Você pode verificar executando no terminal:
+
+```bash
+java -version
+javac -version
+git --version
+```
+
+### Clonando e Executando
 # Clone este repositório
 git clone [https://github.com/Leo300609/Sistema-Lanchonete-em-JAVA.git](https://github.com/Leo300609/Sistema-Lanchonete-em-JAVA.git)
 
@@ -66,12 +77,11 @@ java SistemaLanchonete
 ## Exemplo de Uso
 <img width="684" height="524" alt="image" src="https://github.com/user-attachments/assets/583d6192-09fd-4fad-947e-5c1e22e4b50d" />
 
+## Estrutura do projeto
+Sistema-Lanchonete-em-JAVA/
+│
+├── SistemaLanchonete.java   # Código-fonte principal da aplicação
+└── README.md                # Documentação do repositório
 
-### Pré-requisitos
-
-Certifique-se de ter o **JDK** e o **Git** instalados na sua máquina. Você pode verificar executando no terminal:
-
-```bash
-java -version
-javac -version
-git --version
+## 📄 Licença
+Este projeto está sob a licença *MIT*.
