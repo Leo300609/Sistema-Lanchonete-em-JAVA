@@ -62,16 +62,16 @@ git --version
 ```
 
 ### Clonando e Executando
-# Clone este repositório
+#### Clone este repositório
 git clone [https://github.com/Leo300609/Sistema-Lanchonete-em-JAVA.git](https://github.com/Leo300609/Sistema-Lanchonete-em-JAVA.git)
 
-# Acesse a pasta do projeto
+#### Acesse a pasta do projeto
 cd Sistema-Lanchonete-em-JAVA
 
-# Compile o arquivo Java
+#### Compile o arquivo Java
 javac SistemaLanchonete.java
 
-# Execute a aplicação
+#### Execute a aplicação
 java SistemaLanchonete
 
 ## Exemplo de Uso
